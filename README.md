@@ -8,9 +8,9 @@
 
 **English**: This is a cryptocurrency funding rate monitoring system based on Python and Flask, supporting funding rate data collection, analysis and visualization from Binance and OKX exchanges. The system provides real-time funding rate monitoring, high-frequency trading pair identification, and alert functions to help traders understand market funding costs and arbitrage opportunities.
 
-## 🚀 在线演示 / Live Demo
+## 🚀 快速体验 / Quick Experience
 
-**[点击体验 / Click to Experience](https://dmatrader.github.io/funding-rate-monitor/)**
+**本地运行体验**: 按照下方使用说明在本地运行程序即可体验完整功能
 
 ## ✨ 功能特性 / Features
 
@@ -128,6 +128,12 @@ python fundingrate_web.py
 - **`funding_report.txt`** - Top10资金费率报告
 - **`funding_alert.txt`** - 资金费率预警信息
 - **`funding_high_frequency.txt`** - 高频交易对统计
+
+## 🔗 相关链接 / Related Links
+
+- [币安注册邀请](https://www.binance.com/join?ref=MAPAMBQ1) - 手续费永久返还
+- [币安合约官网](https://www.binance.com/zh-CN/futures)
+- [OKX合约官网](https://www.okx.com/zh-hans/trade-futures/btc-usdt-swap)
 
 ## 📸 预览 / Preview
 
