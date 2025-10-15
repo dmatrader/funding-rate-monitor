@@ -129,6 +129,10 @@ python fundingrate_web.py
 - **`funding_alert.txt`** - 资金费率预警信息
 - **`funding_high_frequency.txt`** - 高频交易对统计
 
+## 📸 预览 / Preview
+
+![资金费率监控界面](https://github.com/dmatrader/funding-rate-monitor/blob/master/screenshot.png)
+
 ## 📄 许可证 / License
 
 MIT License - 可自由使用和修改 | Free to use and modify
